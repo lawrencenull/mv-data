@@ -3,32 +3,38 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/lawrencenull/mv-data@9b0668743a70b6f5686029ec8e1342d1b17ebd43/images/huge_avatar%20(2).jpg",
 			"name": "Ariana Grande",
-			"@type": "Painting"
+			"@type": "Painting",
+			"abstract": "Huge avatar%20(2)"
 		},
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528264937.png",
+			"image": "https://cdn.jsdelivr.net/gh/lawrencenull/mv-data@34a6b0c78b203384d4855ef70ef0d343408ccfd8/images/lily%20mac%202.jpg",
 			"name": "Muck Mouth",
-			"@type": "Painting"
+			"@type": "Painting",
+			"abstract": "Lily%20mac%202"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
 			"name": "Fishwall",
-			"@type": "Painting"
+			"@type": "Painting",
+			"abstract": "Pasted image 1494528646446"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
 			"name": "Web Coffe Marilyn",
-			"@type": "Painting"
+			"@type": "Painting",
+			"abstract": "Web coffe marilyn"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
 			"name": "Web 3 Jules",
-			"@type": "Painting"
+			"@type": "Painting",
+			"abstract": "Pasted image 1494903924970"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
-			"@type": "Painting"
+			"@type": "Painting",
+			"abstract": "Web electric3"
 		}
 	]
 }
