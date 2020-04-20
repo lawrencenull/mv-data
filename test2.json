@@ -36,5 +36,12 @@
 			"@type": "Painting",
 			"abstract": "Web electric3"
 		}
+	],
+	"Entity": [
+		{
+			"name": "Test",
+			"abstract": "Test",
+			"@type": "Entity"
+		}
 	]
 }
