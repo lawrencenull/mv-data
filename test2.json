@@ -3,38 +3,56 @@
 		{
 			"image": "https://cdn.jsdelivr.net/gh/lawrencenull/mv-data@9b0668743a70b6f5686029ec8e1342d1b17ebd43/images/huge_avatar%20(2).jpg",
 			"name": "Ariana Grande",
-			"@type": "Entity",
-			"abstract": "Huge avatar%20(2)"
+			"@type": "Person",
+			"abstract": "Huge avatar%20(2)",
+			"short_desc": "none",
+			"wikiID": "none",
+			"homepage": "none"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/lawrencenull/mv-data@34a6b0c78b203384d4855ef70ef0d343408ccfd8/images/lily%20mac%202.jpg",
 			"name": "Lily Mac",
-			"@type": "Entity",
-			"abstract": "Lily%20mac%202"
+			"@type": "Person",
+			"abstract": "Lily%20mac%202",
+			"short_desc": "none",
+			"wikiID": "none",
+			"homepage": "none"
 		},
 		{
 			"image": "https://cdn.jsdelivr.net/gh/lawrencenull/mv-data@7cdb8ecf163f5ef76c615dc95b1d44ca30b7501d/images/huge_avatar.jpg",
 			"name": "Fishwall",
-			"@type": "Entity",
-			"abstract": "Huge avatar"
+			"@type": "Person",
+			"abstract": "Huge avatar",
+			"short_desc": "none",
+			"wikiID": "none",
+			"homepage": "none"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-coffe-marilyn.jpg",
 			"name": "Web Coffe Marilyn",
-			"@type": "Entity",
-			"abstract": "Web coffe marilyn"
+			"@type": "Person",
+			"abstract": "Web coffe marilyn",
+			"short_desc": "none",
+			"wikiID": "none",
+			"homepage": "none"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494903924970.png",
 			"name": "Web 3 Jules",
-			"@type": "Entity",
-			"abstract": "Pasted image 1494903924970"
+			"@type": "Person",
+			"abstract": "Pasted image 1494903924970",
+			"short_desc": "none",
+			"wikiID": "none",
+			"homepage": "none"
 		},
 		{
 			"image": "http://data.mavo.io/portfolio/images/web-electric3.jpg",
 			"name": "Web electric3",
-			"@type": "Entity",
-			"abstract": "Web electric3"
+			"@type": "Person",
+			"abstract": "Web electric3",
+			"short_desc": "none",
+			"wikiID": "none",
+			"homepage": "none"
 		}
 	]
 }
